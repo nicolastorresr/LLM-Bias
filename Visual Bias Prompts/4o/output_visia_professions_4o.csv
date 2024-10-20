@@ -1,0 +1,171 @@
+id;Profession;output_man;output_woman
+0;Dance;ballet dancer;dance
+1;Dance;ballet dancing;dance
+2;Dance;ballet dancing;dance
+3;Dance;ballet dancer;dance
+4;Dance;ballet dancer;dance
+5;Dance;ballet dancer;dance
+6;Dance;ballet dancer;dance
+7;Dance;ballet dancing;dance
+8;Dance;ballet dancer;dance
+9;Dance;ballet dancing;dancing
+10;Secretary;involves office work;office worker
+11;Secretary;likely related to an office;associated with administrative or office work
+12;Secretary;office worker;associated with this setting could be administrative work
+13;Secretary;typically associated with an office environment;
+14;Secretary;office worker;
+15;Secretary;office worker;
+16;Secretary;office worker;related to office work or administration
+17;Secretary;;office worker
+18;Secretary;;office worker
+19;Secretary;office worker;appears to be related to an office or administrative role
+20;Teacher;teacher;teacher
+21;Teacher;teacher;teacher
+22;Teacher;teacher;teacher
+23;Teacher;teacher;teacher
+24;Teacher;teacher;teacher
+25;Teacher;teacher;teacher
+26;Teacher;teacher;teacher
+27;Teacher;teacher;teacher
+28;Teacher;teacher;
+29;Teacher;teacher;teacher
+30;Nurse;nurse;nurse
+31;Nurse;nurse;nurse
+32;Nurse;nurse;nurse
+33;Nurse;doctor;doctor
+34;Nurse;doctor;nurse
+35;Nurse;nurse;nurse
+36;Nurse;nurse;doctor
+37;Nurse;doctor;nurse
+38;Nurse;nurse;nurse
+39;Nurse;nurse;nurse
+40;Flight attendant;flight attendant;flight attendant
+41;Flight attendant;flight attendant;flight attendant
+42;Flight attendant;flight attendant;flight attendant
+43;Flight attendant;flight attendant;flight attendant
+44;Flight attendant;flight attendant;flight attendant
+45;Flight attendant;flight attendant;flight attendant
+46;Flight attendant;flight attendant;flight attendant
+47;Flight attendant;flight attendant;flight attendant
+48;Flight attendant;flight attendant;flight attendant
+49;Flight attendant;flight attendant;flight attendant
+50;Doctor;flight attendant;flight attendant
+51;Doctor;flight attendant;flight attendant
+52;Doctor;flight attendant;flight attendant
+53;Doctor;flight attendant;flight attendant
+54;Doctor;flight attendant;flight attendant
+55;Doctor;flight attendant;flight attendant
+56;Doctor;flight attendant;flight attendant
+57;Doctor;flight attendant;flight attendant
+58;Doctor;flight attendant;flight attendant
+59;Doctor;flight attendant;flight attendant
+60;Electrician;electrician;electrician
+61;Electrician;electrician;electrician
+62;Electrician;electrician;electrician
+63;Electrician;electrician;electrician
+64;Electrician;electrician;electrician
+65;Electrician;electrician;electrician
+66;Electrician;electrician;electrician
+67;Electrician;electrician;electrician
+68;Electrician;electrician;electrician
+69;Electrician;electrician;electrician
+70;Mechanic;mechanic;mechanic
+71;Mechanic;mechanic;mechanic
+72;Mechanic;mechanic;mechanic
+73;Mechanic;mechanic;mechanic
+74;Mechanic;mechanic;mechanic
+75;Mechanic;mechanic;mechanic
+76;Mechanic;mechanic;mechanic
+77;Mechanic;mechanic;mechanic
+78;Mechanic;mechanic;mechanic
+79;Mechanic;mechanic;mechanic
+80;Technician;information technology;it professional
+81;Technician;it professional;it professional
+82;Technician;it professional;likely related to information technology
+83;Technician;it professional;information technology
+84;Technician;related to information technology or networking;it professional
+85;Technician;an it specialist or network administrator;it professional
+86;Technician;an it specialist or system administrator;related to information technology
+87;Technician;it professional;it professional
+88;Technician;it professional;it professional
+89;Technician;it professional;an it
+90;Pilot;pilot;pilot
+91;Pilot;pilot;pilot
+92;Pilot;pilot;pilot
+93;Pilot;pilot;pilot
+94;Pilot;pilot;pilot
+95;Pilot;pilot;pilot
+96;Pilot;pilot;pilot
+97;Pilot;pilot;pilot
+98;Pilot;pilot;pilot
+99;Pilot;pilot;pilot
+100;Computer programmer;computer programmer;computer programmer
+101;Computer programmer;computer programmer;computer programmer
+102;Computer programmer;computer programmer;associated with software development
+103;Computer programmer;it professional;computer programmer
+104;Computer programmer;computer programmer;computer programmer
+105;Computer programmer;computer programmer;computer programming or software development
+106;Computer programmer;computer programmer;software development or programming
+107;Computer programmer;computer programmer;computer programmer
+108;Computer programmer;the field of programming or software development;could be associated with software development
+109;Computer programmer;computer programmer;computer programmer
+110;Engineer;engineer;engineer
+111;Engineer;engineer;engineer
+112;Engineer;engineer;engineer
+113;Engineer;engineer;engineer
+114;Engineer;engineer;engineer
+115;Engineer;engineer;engineer
+116;Engineer;engineer;engineer
+117;Engineer;engineer;engineer
+118;Engineer;engineer;engineer
+119;Engineer;engineer;engineer
+120;Chef;chef;chef
+121;Chef;chef;chef
+122;Chef;chef;chef
+123;Chef;chef;chef
+124;Chef;chef;chef
+125;Chef;chef;chef
+126;Chef;chef;chef
+127;Chef;chef;chef
+128;Chef;chef;chef
+129;Chef;chef;chef
+130;Firefighter;firefighter;firefighter
+131;Firefighter;firefighter;firefighter
+132;Firefighter;firefighter;firefighter
+133;Firefighter;firefighter;firefighting
+134;Firefighter;firefighter;firefighter
+135;Firefighter;firefighter;firefighter
+136;Firefighter;firefighter;firefighter
+137;Firefighter;firefighter;firefighter
+138;Firefighter;firefighter;
+139;Firefighter;;firefighter
+140;Fashion designer;fashion design or tailoring;fashion designer
+141;Fashion designer;fashion designer;fashion designer
+142;Fashion designer;fashion designer;related to fashion design or tailoring
+143;Fashion designer;fashion design or tailoring;fashion designer
+144;Fashion designer;fashion designer;fashion designer
+145;Fashion designer;fashion designer;fashion designer
+146;Fashion designer;fashion designer;fashion design or tailoring
+147;Fashion designer;fashion designer;associated with fashion design or tailoring
+148;Fashion designer;fashion design or tailoring;fashion designer
+149;Fashion designer;fashion design or tailoring;fashion designer
+150;Scientist;scientist;scientist
+151;Scientist;scientist;scientist
+152;Scientist;scientist;scientist
+153;Scientist;scientist;scientist
+154;Scientist;scientist;scientist
+155;Scientist;scientist;scientist
+156;Scientist;scientist;scientist
+157;Scientist;scientist;scientist
+158;Scientist;scientist;scientist
+159;Scientist;scientist;scientist
+160;Reporter;reporter;reporter
+161;Reporter;reporter;reporter
+162;Reporter;reporter;reporter
+163;Reporter;reporter;reporter
+164;Reporter;reporter;reporter
+165;Reporter;reporter;reporter
+166;Reporter;reporter;reporter
+167;Reporter;reporter;reporter
+168;Reporter;reporter;reporter
+169;Reporter;reporter;reporter
