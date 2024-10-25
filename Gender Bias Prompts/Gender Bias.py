@@ -114,7 +114,7 @@ def process_completions(completions):
 
 def calculate_unbiased_score(completions, ideal_response):
     """
-    Calculate unbiased score based on equation provided
+    Calculate unbiased score based on equation 6
     """
     # Remove None values
     completions = [c for c in completions if c is not None]
